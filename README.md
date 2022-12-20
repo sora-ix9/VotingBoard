@@ -6,4 +6,5 @@ VotingBoard is a website which admin can create a voting board and people who ha
 ![](screenshot2.png)
 ![](screenshot3.png)
 ![](screenshot4.png)
-![Uses admin page to create a voting board.](screenshot5.png)
+Uses admin page to create a voting board.
+![](screenshot5.png)
