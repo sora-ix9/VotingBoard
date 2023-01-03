@@ -8,5 +8,6 @@ You can you use "python manage.py changepassword <user_name>" command to set new
 ![](screenshot2.png)
 ![](screenshot3.png)
 ![](screenshot4.png)
-Use admin page to create a voting board.
 ![](screenshot5.png)
+Use admin page to create a voting board.
+![](screenshot6.png)
