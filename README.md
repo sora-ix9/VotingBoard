@@ -1,6 +1,6 @@
 # VotingBoard
 VotingBoard is a website which admin can create a voting board and people who have an account can vote on the board.
-# Requisite Python Libraries
+# Requisite Python Packages
 * Django
 * Pillow
 # Admin Account
