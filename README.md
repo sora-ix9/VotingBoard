@@ -5,7 +5,7 @@ VotingBoard is a website which admin can create a voting board and people who ha
 * Pillow
 * django-crispy-forms
 # Admin Account
-An admin account is already created, by which username of the admin is set to be "admin" and password of the admin is set to be "adminpassword".
+An admin account is already created, by which username of the admin is set to be "Admin" and password of the admin is set to be "adminpassword".
 You can you use "python manage.py changepassword <user_name>" command to set new password of the admin.
 # Web Screen
 ![](screenshot1.png)
