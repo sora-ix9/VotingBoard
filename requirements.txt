@@ -1,0 +1,4 @@
+django==5.2
+pillow==11.1.0
+django-crispy-forms==2.3
+crispy-bootstrap4==2024.1
